@@ -1,0 +1,3 @@
+node_modules/
+src/database/*.json 
+# এখানে *.json (স্টার ডট জেএসন) দেওয়ার মানে হলো—database ফোল্ডারের ভেতরে যত .json ফাইল আছে (যেমন: user.json, db.json), গিট সেগুলোকে ইগনোর করবে।
